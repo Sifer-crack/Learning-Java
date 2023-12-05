@@ -1,2 +1,2 @@
 # Learning-Java
-Small snips of examples
+Small code examples
